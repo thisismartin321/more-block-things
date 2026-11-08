@@ -1,0 +1,26 @@
+license="${mod_license}"
+
+[[mods]]
+modId="${mod_id}"
+version="${mod_version}"
+displayName="${mod_name}"
+authors="MCraftYT"
+description='''
+More Block Things: more things made from blocks.
+
+Included so far: Block Armor - wear any block as armor, with set effects. It is a from-scratch rewrite of the mod "Block Armor" by twopiradians. Credits to twopiradians.
+'''
+
+[[dependencies.${mod_id}]]
+    modId="neoforge"
+    type="required"
+    versionRange="[${neo_version},)"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.${mod_id}]]
+    modId="minecraft"
+    type="required"
+    versionRange="${minecraft_version_range}"
+    ordering="NONE"
+    side="BOTH"

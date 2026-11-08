@@ -1,0 +1,56 @@
+{
+  "stats": {
+    "minecraft:picked_up": {
+      "minecraft:sculk_catalyst": 3,
+      "minecraft:emerald_block": 2,
+      "moreblockthings:emerald_block_chestplate": 1,
+      "minecraft:emerald": 1,
+      "moreblockthings:emerald_block_helmet": 1,
+      "minecraft:rotten_flesh": 6
+    },
+    "minecraft:crafted": {
+      "minecraft:emerald_block": 9,
+      "moreblockthings:emerald_block_helmet": 1,
+      "minecraft:emerald": 18
+    },
+    "minecraft:killed": {
+      "minecraft:zombie": 2,
+      "minecraft:warden": 1
+    },
+    "minecraft:killed_by": {
+      "minecraft:zombie": 1
+    },
+    "minecraft:custom": {
+      "minecraft:interact_with_crafting_table": 1,
+      "minecraft:time_since_rest": 1121,
+      "minecraft:walk_one_cm": 2762,
+      "minecraft:leave_game": 1,
+      "minecraft:mob_kills": 3,
+      "minecraft:damage_taken": 320,
+      "minecraft:damage_dealt": 5178,
+      "minecraft:play_time": 4362,
+      "minecraft:jump": 39,
+      "minecraft:time_since_death": 1070,
+      "minecraft:drop": 13,
+      "minecraft:sprint_one_cm": 5147,
+      "minecraft:fall_one_cm": 201,
+      "minecraft:total_world_time": 4384,
+      "minecraft:fly_one_cm": 2346,
+      "minecraft:sneak_time": 3,
+      "minecraft:deaths": 1
+    },
+    "minecraft:used": {
+      "minecraft:crafting_table": 1,
+      "moreblockthings:emerald_block_helmet": 2,
+      "moreblockthings:emerald_block_chestplate": 2
+    },
+    "minecraft:dropped": {
+      "minecraft:rotten_flesh": 6,
+      "minecraft:crafting_table": 1,
+      "minecraft:emerald_block": 2,
+      "minecraft:sculk_catalyst": 3,
+      "minecraft:emerald": 1
+    }
+  },
+  "DataVersion": 4903
+}

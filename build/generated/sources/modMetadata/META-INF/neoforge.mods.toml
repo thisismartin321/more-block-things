@@ -1,0 +1,26 @@
+license="All Rights Reserved"
+
+[[mods]]
+modId="moreblockthings"
+version="1.0.0"
+displayName="More Block Things"
+authors="MCraftYT"
+description='''
+More Block Things: more things made from blocks.
+
+Included so far: Block Armor - wear any block as armor, with set effects. It is a from-scratch rewrite of the mod "Block Armor" by twopiradians. Credits to twopiradians.
+'''
+
+[[dependencies.moreblockthings]]
+    modId="neoforge"
+    type="required"
+    versionRange="[26.2.0.90,)"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.moreblockthings]]
+    modId="minecraft"
+    type="required"
+    versionRange="[26.2]"
+    ordering="NONE"
+    side="BOTH"

@@ -1,0 +1,10 @@
+{
+  "layers": {
+    "humanoid": [
+      { "texture": "moreblockthings:block_armor" }
+    ],
+    "humanoid_leggings": [
+      { "texture": "moreblockthings:block_armor" }
+    ]
+  }
+}
