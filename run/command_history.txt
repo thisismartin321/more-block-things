@@ -1,6 +1,0 @@
-/summon zombie
-/effect give Dev minecraft:instant_health infinite 255
-/summon zombie
-/effect give Dev minecraft:instant_health infinite 255
-/effect give Dev minecraft:strength infinite 255
-/summon warden
