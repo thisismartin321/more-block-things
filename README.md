@@ -5,8 +5,8 @@ A NeoForge 26.2 mod that makes more things out of blocks. Mod ID: `moreblockthin
 ## Modules
 
 ### Block Armor
-
-Wear any block as armor. This module is a from-scratch rewrite of the mod
+**Made with AI!!**
+Wear any block as armor and more. This module is a from-scratch rewrite of the mod
 [Block Armor](https://www.curseforge.com/minecraft/mc-mods/block-armor) by **twopiradians** (originally for
 Minecraft 1.18.1 on Forge). Credits to twopiradians for the original idea and design.
 
