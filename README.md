@@ -66,7 +66,6 @@ Requires Java 25. The Gradle wrapper is set to 9.8.2.
 
 The project is based on the official NeoForge 26.2 MDK (NeoForge 26.2.0.90, ModDevGradle 2.0.148). The jar is created
 in `build/libs`.
-
 ## License
 
-All Rights Reserved. Not affiliated with the original mod or its author.
+GNU GPLv3. Not affiliated with the original mod or its author.
